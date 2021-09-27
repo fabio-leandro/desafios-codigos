@@ -1,0 +1,17 @@
+Seu programa é usar a abordagem da força bruta para encontrar a Resposta à Vida, ao Universo e a Tudo.
+ Mais precisamente ... reescrever pequenos números da entrada à saída. Pare de processar a entrada depois
+  de ler o número 42. Todos os números na entrada são inteiros de um ou dois dígitos.
+
+
+Exemplo
+Entrada:
+1
+2
+88
+42
+99
+
+Saída:
+1
+2
+88

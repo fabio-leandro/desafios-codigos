@@ -1,0 +1,25 @@
+Peter deseja gerar alguns números primos para seu criptossistema. Ajudem-no! Sua tarefa é gerar
+todos os números primos entre dois números dados!
+
+Entrada
+A entrada começa com o número t de casos de teste em uma única linha (t <= 10). Em cada uma
+das próximas t linhas, há dois números me n (1 <= m <= n <= 1000000000, nm <= 100000) separados por um espaço.
+
+Saída
+Para cada caso de teste imprima todos os números primos p tais que m <= p <= n, um número por linha,
+casos de teste separados por uma linha vazia.
+
+Exemplo
+Entrada:
+2
+1 10
+3 5
+
+Saída:
+2
+3
+5
+7
+
+3
+5
